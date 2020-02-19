@@ -1,5 +1,6 @@
 # DragonHack Test Readme
 ## Just get familiar with it, we're gonna be using it a lot 
+##boom I edited thisssss --Nahara
 
 Alright, here is the test github repo. I'm using the gui to save time since I have some experience using it over the summer. If you choose to do the gui and want to use it, it's really easy to use and cloning it using the grean dropdown on the top right works similarly to a magnet torrent. You'll get a small popup asking you if you want to use a desktop app and the rest is pretty straight forward.
 
